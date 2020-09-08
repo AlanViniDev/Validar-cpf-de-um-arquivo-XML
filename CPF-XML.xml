@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<clientes>
+  <cliente>
+    <codigo>001</codigo> 
+    <nome>Joao</nome> 
+    <email>joao@email.com</email> 
+    <celular>3333-3333</celular>
+    <cpf>11111111111</cpf>
+  </cliente>
+  <cliente>
+    <codigo>002</codigo> 
+    <nome>Pedro</nome> 
+    <email>pedro@email.com</email> 
+    <celular>4444-4444</celular>
+  </cliente>
+</clientes>
